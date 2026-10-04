@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "CompanionIcons",
+  "name": "CompanionIcons",
+  "author": "JustinOros",
+  "version": "0.1.0",
+  "description": "Shows the Kelvin and Virginia map icons above their heads so you can tell them apart and not shoot them",
+  "gameVersion": "1.0.0",
+  "platform": "Client",
+  "type": "Mod"
+}
